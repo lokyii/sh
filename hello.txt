@@ -1,1 +1,5 @@
-hello git! hello atguigu!dev modify!
+<<<<<<< HEAD
+hello git! hello atguigu!
+=======
+hello git! hello atguigu!again!
+>>>>>>> dev
