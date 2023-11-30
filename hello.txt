@@ -1,5 +1,4 @@
 <<<<<<< HEAD
 hello git! hello atguigu!
 =======
-hello git! hello atguigu!again!
->>>>>>> dev
+
